@@ -95,9 +95,7 @@ const FilePage = ({ params }) => {
                     <h2>Results</h2>
                   </div>
                   <ResultVideo
-                    videoUrl={
-                      "https://lg-epic-captions.s3.amazonaws.com/2delq1q3xpn.mp4"
-                    }
+                    videoUrl={`https://lg-epic-captions.s3.amazonaws.com/${filename}`}
                     transcriptItems ={transcriptItems}
                   />
                 </div>
