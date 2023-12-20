@@ -10,7 +10,7 @@ const DemoSection = () => {
       </div>
       <Sparkles className="hidden sm:block h-6 "/>
       <div className="bg-indigo-900/50 w-[400px] rounded-xl overflow-hidden flex items-center">
-      <video src={"https://lg-epic-captions.s3.amazonaws.com/2dwlqde8ni1.mp4"} controls autoPlay ></video>
+      <video src={"https://lg-epic-captions.s3.amazonaws.com/58tlqeebecx.mp4"} controls autoPlay ></video>
       </div>
     </section>
   )
